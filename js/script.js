@@ -34,23 +34,23 @@ main__buttonRemoveHeader.addEventListener("click", () => {
 
 
 main__buttonChangeColor.addEventListener("click", () => {
-    body.classList.toggle("body__newBackground ");
-    body__newBackground.innerText = body.classList.contains("body__newBackground ") ? 
-    "Przywróć tło" : "Zmień kolor tła";
+    body.classList.toggle("body__newBackground");
+    main__buttonChangeColor.innerText = body.classList.contains("body__newBackground") ?
+        "Przywróć tło" : "Zmień kolor tła";
 });
 
 
 //main__buttonImageRemove.addEventListener("click", () => {
-    //main__photo.remove();
+//main__photo.remove();
 //});
 
 
 
 main__buttonImageRemove.addEventListener("click", () => {
-    main__photo.classList.toggle ("hidden");
+    main__photo.classList.toggle("hidden");
     if (main__photo.classList.contains("hidden")) {
         main__buttonImageRemove.innerText = "Przywróć zdjęcie";
-    } else{
+    } else {
         main__buttonImageRemove.innerText = "Usuń zdjęcie";
     }
 });
