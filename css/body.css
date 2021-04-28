@@ -1,0 +1,12 @@
+.body {
+    font-family: 'Lato', sans-serif;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.5;
+    background-color: #eee;
+}
+
+.body__newBackground {
+    background-color: white;
+}

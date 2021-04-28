@@ -1,0 +1,16 @@
+.aside__header {
+    color: hsla(0, 74%, 14%, 0.774);
+}
+
+.aside__link {
+    color: hsla(0, 74%, 14%, 0.774);
+}
+
+.aside__link:focus {
+    outline: 2px solid currentColor;
+    text-decoration: none;
+}
+
+.aside__link:hover {
+    color: yellowgreen;
+}

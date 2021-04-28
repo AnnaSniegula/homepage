@@ -1,0 +1,26 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    overflow-x: auto;
+}
+
+.table__caption {
+    font-weight: bold;
+    padding: 20px;
+}
+
+.table__row:nth-child(even) {
+    background-color: #ddd;
+}
+
+
+.table__cell {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table__header {
+    background-color: yellowgreen;
+}
