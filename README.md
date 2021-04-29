@@ -21,7 +21,7 @@ Compare polish honey platns
 - header
 - photo
 
-###Technologies on site:
+Technologies on site:
 - HTML
 - CSS
 - JAVA SCRIPT
