@@ -20,3 +20,9 @@ Compare polish honey platns
 - background of the webside
 - header
 - photo
+
+###Technologies on site:
+- HTML
+- CSS
+- JAVA SCRIPT
+
