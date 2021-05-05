@@ -4,6 +4,7 @@
 
 .aside__link {
     color: hsla(0, 74%, 14%, 0.774);
+    text-decoration: none;
 }
 
 .aside__link:focus {

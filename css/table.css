@@ -21,6 +21,6 @@
     vertical-align: middle;
 }
 
-.table__header {
+.table__cell--header {
     background-color: yellowgreen;
 }
