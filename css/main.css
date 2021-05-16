@@ -11,6 +11,11 @@
     box-shadow: 5px 5px 10px hsla(120, 93%, 16%, 0.555);
 }
 
+.main__photo--hidden {
+    display: none;
+}
+
+
 .main__list {
     list-style: none;
 }
