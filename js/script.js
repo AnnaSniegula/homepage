@@ -34,9 +34,10 @@
         changeColorButton.addEventListener("click", toggleBackground);
         removeHeaderButton.addEventListener("click", removeHeader);
         removeImageButton.addEventListener("click", removeImage);
-    };
 
     welcome();
+    };
+
 
     init();
 
