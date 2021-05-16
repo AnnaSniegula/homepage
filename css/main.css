@@ -1,6 +1,6 @@
 .main__header {
     color: hsla(0, 74%, 14%, 0.774);
-    background-color: rgba(255, 255, 0, 0.658);
+    background-color: hsla(60, 100%, 50%, 0.658);
     padding: 5px;
     text-align: center;
 }
@@ -17,7 +17,7 @@
 
 .main__buttonRemoveHeader {
     color: hsla(0, 74%, 14%, 0.774);
-    background-color: rgba(255, 255, 0, 0.658);
+    background-color: hsla(60, 100%, 50%, 0.658);
     font-weight: bold;
     border: none;
     text-align: center;
@@ -27,14 +27,14 @@
 }
 
 .main__buttonRemoveHeader:hover {
-    background-color: yellowgreen;
+    background-color: hsl(80, 61%, 50%);
     border-bottom: 2px;
     outline: none;
 }
 
 .main__buttonChangeColor {
     color: hsla(0, 74%, 14%, 0.774);
-    background-color: rgba(255, 255, 0, 0.658);
+    background-color: hsla(60, 100%, 50%, 0.658);
     font-weight: bold;
     border: none;
     text-align: center;
@@ -44,14 +44,14 @@
 }
 
 .main__buttonChangeColor:hover {
-    background-color: yellowgreen;
+    background-color: hsl(80, 61%, 50%);
     border-bottom: 2px;
     outline: none;
 }
 
 .main__buttonImageRemove {
     color: hsla(0, 74%, 14%, 0.774);
-    background-color: rgba(255, 255, 0, 0.658);
+    background-color: hsla(60, 100%, 50%, 0.658);
     font-weight: bold;
     border: none;
     text-align: center;
@@ -61,7 +61,7 @@
 }
 
 .main__buttonImageRemove:hover {
-    background-color: yellowgreen;
+    background-color: hsl(80, 61%, 50%);
     border-bottom: 2px;
     outline: none;
 }

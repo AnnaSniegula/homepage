@@ -10,17 +10,17 @@
 }
 
 .table__row:nth-child(even) {
-    background-color: #ddd;
+    background-color: hsl(0, 0%, 87%);
 }
 
 
 .table__cell {
-    border: 1px solid #ccc;
+    border: 1px solid hsl(0, 0%, 80%);
     padding: 10px;
     text-align: center;
     vertical-align: middle;
 }
 
 .table__cell--header {
-    background-color: yellowgreen;
+    background-color: hsl(80, 61%, 50%);
 }

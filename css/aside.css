@@ -13,5 +13,5 @@
 }
 
 .aside__link:hover {
-    color: yellowgreen;
+    color: hsl(80, 61%, 50%);
 }
