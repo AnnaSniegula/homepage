@@ -4,9 +4,9 @@
         console.log("Czołem przyszli programiści!")
     }
 
-    const removeHeaderButton = document.querySelector(".removeHeaderButton");
-    const removeImageButton = document.querySelector(".removeImageButton");
-    const changeColorButton = document.querySelector(".changeColorButton");
+    const removeImageButton = document.querySelector(".js-removeImage");
+    const removeHeaderButton = document.querySelector(".js-removeHeader");
+    const changeColorButton = document.querySelector(".js-changeColor");
 
     const removeImage = () => {
         const main__photo = document.querySelector(".main__photo");
