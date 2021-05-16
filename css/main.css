@@ -15,7 +15,7 @@
     list-style: none;
 }
 
-.main__buttonRemoveHeader {
+.removeHeaderButton {
     color: hsla(0, 74%, 14%, 0.774);
     background-color: hsla(60, 100%, 50%, 0.658);
     font-weight: bold;
@@ -26,13 +26,13 @@
     text-decoration: none;
 }
 
-.main__buttonRemoveHeader:hover {
+.removeHeaderButton:hover {
     background-color: hsl(80, 61%, 50%);
     border-bottom: 2px;
     outline: none;
 }
 
-.main__buttonChangeColor {
+.changeColorButton {
     color: hsla(0, 74%, 14%, 0.774);
     background-color: hsla(60, 100%, 50%, 0.658);
     font-weight: bold;
@@ -43,13 +43,13 @@
     text-decoration: none;
 }
 
-.main__buttonChangeColor:hover {
+.changeColorButton:hover {
     background-color: hsl(80, 61%, 50%);
     border-bottom: 2px;
     outline: none;
 }
 
-.main__buttonImageRemove {
+.removeImageButton {
     color: hsla(0, 74%, 14%, 0.774);
     background-color: hsla(60, 100%, 50%, 0.658);
     font-weight: bold;
@@ -60,7 +60,7 @@
     text-decoration: none;
 }
 
-.main__buttonImageRemove:hover {
+.removeImageButton:hover {
     background-color: hsl(80, 61%, 50%);
     border-bottom: 2px;
     outline: none;

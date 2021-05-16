@@ -4,9 +4,9 @@
     margin: 0 auto;
     padding: 20px;
     line-height: 1.5;
-    background-color: #eee;
+    background-color: hsl(0, 0%, 93%);
 }
 
-.body__newBackground {
-    background-color: white;
+.body--newBackground {
+    background-color: hsl(0, 0%, 100%);
 }
